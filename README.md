@@ -88,7 +88,8 @@ Prompt：
 ```bash
 Before installing anything, inspect the ClawHub skill metadata and setup requirements.
 If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
-Install the skill "medical-imaging-9th-edition" from ClawHub only after those checks pass.
+Install the skill "Medical Imaging 9th Edition" (xllgreen/medical-imaging-9th-edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/medical-imaging-9th-edition
 Keep the work scoped to this skill only.
 After install, help me finish setup from verified skill metadata.
 Use only the metadata you can verify from ClawHub; do not invent missing requirements.
