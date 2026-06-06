@@ -8,7 +8,7 @@
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
 <br>
-> 基于人民卫生出版社《内科学》第10版的临床技能手册 — 423 项内科核心临床技能
+> 基于人民卫生出版社《医学影像学》第9版的临床技能手册 — 136 项关键临床技能
 <br>
 <br>
 <img src="/assets/Medical Imaging-9thEdition.jpg" width="260px">
